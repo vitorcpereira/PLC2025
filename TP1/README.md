@@ -24,4 +24,4 @@ E consideramos, por fim, que uma sequencia indeterminada de caracteres 0 seguida
 1\*(0\*1?)\*
 
 A expressão regular resultante pode ser testada através do seguinte link
-[(https://regex101.com/r/H0EHjR/2)]
+[(https://regex101.com/r/H0EHjR/3)]
