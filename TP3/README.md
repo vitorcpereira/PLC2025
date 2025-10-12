@@ -15,4 +15,4 @@ para nome do atributo e<br>
 para valor do atributo. Para que estas expressões regulares reconheçam corretamente estes tokens,<br>
 é necessário garantir que são previamente checados a existência de tokens como SELECT ou WHERE.<br>
 
-Tendo estas considerações temos enfim o analisador léxico em python: [(https://github.com/vitorcpereira/PLC2025/TP3/sparql_tokens.py)]
+Tendo estas considerações temos enfim o analisador léxico em python: [(https://github.com/vitorcpereira/PLC2025/blob/master/TP3/sparql_tokens.py)]
